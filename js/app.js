@@ -96,6 +96,7 @@ class Player {
         }
     }
 }
+//create an object of Player class.
 let player = new Player();
 
 document.addEventListener('keyup', function(e) {
