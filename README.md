@@ -1,4 +1,4 @@
-#  FEND Project 3
+#  Classic Arcade Game Project 
 This project (Classic Arcade Game) has been created by using the following languages.
 * JS
 * CSS
